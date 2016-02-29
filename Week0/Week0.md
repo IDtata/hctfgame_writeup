@@ -1,10 +1,6 @@
 # Hctfgame writeup week0
 
-----------
-
-标签（空格分隔）：hctfgame Writeup week0
-
-----------
+标签：hctfgame Writeup week0
 
 ### WEB ###
 > 
@@ -14,8 +10,6 @@
    chrome --> F12 --> 转到网址 --> Network 里面的 Headers
  - WEB 从 0 开始之 0.2
    Firefox --> Firebug 查看 cookie --> givemeflag 内容改为 true --> F5
-
-----------
 
 ### MISC ###
 > 
@@ -29,8 +23,6 @@
 -->目标达不到（自动脚本不会写），一直输入 A+enter，输300-500次
  - MISC 从 0 开始之 Steganography 0
    图片下载 --> 记事本打开 --> 查找 ctf
-
-----------
 
 ### CRYPTO ###
 > 
