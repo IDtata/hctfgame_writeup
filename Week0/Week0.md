@@ -1,6 +1,6 @@
 # Hctfgame writeup week0
 
-标签：hctfgame Writeup week0
+标签: hctfgame Writeup week0
 
 ### WEB ###
 > 
