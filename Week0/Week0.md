@@ -1,7 +1,5 @@
 # Hctfgame writeup week0
 
-标签: hctfgame Writeup week0
-
 ### WEB ###
 > 
  - WEB 从 0 开始之 0
