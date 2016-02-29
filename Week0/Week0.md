@@ -3,11 +3,11 @@
 ### WEB ###
 > 
  - WEB 从 0 开始之 0  
-   chrome --> F12 --> ctrl+F 查找 hctf
+   chrome --> F12 --> ctrl+F 在源码中查找 hctf
  - WEB 从 0 开始之 0.1  
-   chrome --> F12 --> 转到网址 --> Network 里面的 Headers
+   chrome --> F12 --> 转到网址（注意原网址和跳转的不同） --> Network 里面的 Headers
  - WEB 从 0 开始之 0.2  
-   Firefox --> Firebug 查看 cookie --> givemeflag 内容改为 true --> F5
+   Firefox --> Firebug 查看 cookie --> givemeflag 的内容 fault 改为 true --> F5
 
 ### MISC ###
 > 
