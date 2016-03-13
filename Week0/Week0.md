@@ -73,4 +73,13 @@
    
    Hint : Caesar's code --> ojam 对应 hctf  
    abcdefghijklmnopqrstuvwxyz  
-   tuvwxyzabcdefghijklmnopqrs
+   tuvwxyzabcdefghijklmnopqrs  
+
+### RE ###
+> 
+ - step 0  
+ 题目ID： 31  
+ 题目描述： 逆向第一题，od调一下，也就2分钟       FILE:http://7xn9bv.dl1.z0.glb.clouddn.com/CrackMe0-2.zip  
+ 
+下载文件 --> Ollydbg52pojie 打开文件 -->  
+（一）F9（直接运行程序，遇到断点处，程序暂停） --> 在程序运行窗口随便输入 --> 程序运行到 flag 处自动暂停 --> 在反汇编窗口或信息窗口或数据窗口都可直接看到 flag  
